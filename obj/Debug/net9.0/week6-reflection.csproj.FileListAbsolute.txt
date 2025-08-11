@@ -1,0 +1,15 @@
+C:\Users\sadis\OneDrive\Documents\GitHub\week6-reflection\bin\Debug\net9.0\week6-reflection.exe
+C:\Users\sadis\OneDrive\Documents\GitHub\week6-reflection\bin\Debug\net9.0\week6-reflection.deps.json
+C:\Users\sadis\OneDrive\Documents\GitHub\week6-reflection\bin\Debug\net9.0\week6-reflection.runtimeconfig.json
+C:\Users\sadis\OneDrive\Documents\GitHub\week6-reflection\bin\Debug\net9.0\week6-reflection.dll
+C:\Users\sadis\OneDrive\Documents\GitHub\week6-reflection\bin\Debug\net9.0\week6-reflection.pdb
+C:\Users\sadis\OneDrive\Documents\GitHub\week6-reflection\obj\Debug\net9.0\week6-reflection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sadis\OneDrive\Documents\GitHub\week6-reflection\obj\Debug\net9.0\week6-reflection.AssemblyInfoInputs.cache
+C:\Users\sadis\OneDrive\Documents\GitHub\week6-reflection\obj\Debug\net9.0\week6-reflection.AssemblyInfo.cs
+C:\Users\sadis\OneDrive\Documents\GitHub\week6-reflection\obj\Debug\net9.0\week6-reflection.csproj.CoreCompileInputs.cache
+C:\Users\sadis\OneDrive\Documents\GitHub\week6-reflection\obj\Debug\net9.0\week6-reflection.sourcelink.json
+C:\Users\sadis\OneDrive\Documents\GitHub\week6-reflection\obj\Debug\net9.0\week6-reflection.dll
+C:\Users\sadis\OneDrive\Documents\GitHub\week6-reflection\obj\Debug\net9.0\refint\week6-reflection.dll
+C:\Users\sadis\OneDrive\Documents\GitHub\week6-reflection\obj\Debug\net9.0\week6-reflection.pdb
+C:\Users\sadis\OneDrive\Documents\GitHub\week6-reflection\obj\Debug\net9.0\week6-reflection.genruntimeconfig.cache
+C:\Users\sadis\OneDrive\Documents\GitHub\week6-reflection\obj\Debug\net9.0\ref\week6-reflection.dll
